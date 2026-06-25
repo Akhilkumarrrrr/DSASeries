@@ -1,2 +1,2 @@
-# DSASeries
-A repository for my personal DSA journey. Code uploaded here is strictly for learning and practice purposes.
+## The Sovereign
+I am Akhil—the Generator, the Observer, and the Destroyer of this digital realm. Within this repository, structures are spoken into existence by my command, algorithms are observed and optimized through my vision, and bugs are ruthlessly destroyed by my absolute will. This is not just code; it is a universe bending to its creator. Tread lightly, for you are witnessing reality being engineered.

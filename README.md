@@ -7,6 +7,7 @@ I am Akhil—the Generator, the Observer, and the Destroyer of this digital real
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akhilkumarrrrr/DSASeries/tree/master/0169-majority-element) |
+| [0704-binary-search](https://github.com/Akhilkumarrrrr/DSASeries/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@ I am Akhil—the Generator, the Observer, and the Destroyer of this digital real
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akhilkumarrrrr/DSASeries/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Akhilkumarrrrr/DSASeries/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
